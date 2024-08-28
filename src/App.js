@@ -86,7 +86,7 @@ function App() {
       <button onClick={handleCapture} className="mt-4 p-2 bg-blue-500 text-white rounded">
         Capture Drawing
       </button>
-      <button onClick={handleClear} className="mt-4 p-2 bg-blue-500 text-white rounded">
+      <button onClick={handleClear} className="mt-4 p-2 ml-10 bg-blue-500 text-white rounded">
         Clear
       </button>
       {image && (
