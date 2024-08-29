@@ -73,7 +73,7 @@ function App() {
         Clear
       </button>
       <button onClick={handleImage} className="mt-4 p-2 bg-blue-500 ml-5 text-white rounded">
-        Clear Latest
+        Clear Image
       </button>
       <button onClick={handleUndo} className="mt-4 p-2 bg-blue-500 ml-5 text-white rounded">
         Undo Last Line
